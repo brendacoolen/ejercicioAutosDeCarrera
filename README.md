@@ -1,2 +1,0 @@
-# ejercicioAutosDeCarrera
-Created with CodeSandbox
